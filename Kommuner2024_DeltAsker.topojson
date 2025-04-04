@@ -105229,18 +105229,7 @@
 								645,
 								646
 							]
-						]
-					],
-					"type": "Polygon",
-					"properties": {
-						"id": "3203",
-						"kommunenummer": "3203",
-						"name": "Asker",
-						"kommunenavn": "Asker"
-					}
-				},
-				{
-					"arcs": [
+						],
 						[
 							[
 								647
@@ -105259,7 +105248,7 @@
 						"name": "Asker",
 						"kommunenavn": "Asker"
 					}
-				},
+				},			
 				{
 					"arcs": [
 						[

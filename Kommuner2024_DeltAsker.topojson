@@ -105229,7 +105229,18 @@
 								645,
 								646
 							]
-						],
+						]
+					],
+					"type": "MultiPolygon",
+					"properties": {
+						"id": "3203",
+						"kommunenummer": "3203",
+						"name": "Asker",
+						"kommunenavn": "Asker"
+					}
+				},
+				{
+					"arcs": [
 						[
 							[
 								647
@@ -105243,12 +105254,12 @@
 					],
 					"type": "MultiPolygon",
 					"properties": {
-						"id": "3203",
-						"kommunenummer": "3203",
-						"name": "Asker",
-						"kommunenavn": "Asker"
+						"id": "32603",
+						"kommunenummer": "32603",
+						"name": "Røyken og Hurum",
+						"kommunenavn": "Røyken og Hurum"
 					}
-				},			
+				},
 				{
 					"arcs": [
 						[

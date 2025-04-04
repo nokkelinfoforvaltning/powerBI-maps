@@ -105233,13 +105233,7 @@
 				},
 				{
 					"arcs": [
-						[
-							[
-								644,
-								645,
-								646
-							]
-						],
+						
 						[
 							[
 								647
@@ -105267,7 +105261,7 @@
 							]
 						]
 					],
-					"type": "MultiPolygon",
+					"type": "Polygon",
 					"properties": {
 						"id": "3025",
 						"kommunenummer": "3025",

@@ -105236,6 +105236,7 @@
 						
 						[
 							[
+								646,
 								647
 							]
 						],
@@ -105283,22 +105284,6 @@
 						"kommunenummer": "3025",
 						"name": "Asker2",
 						"kommunenavn": "Asker2"
-					}
-				},
-				{
-					"arcs": [
-						[
-							[							
-								646
-							]
-						]
-					],
-					"type": "Polygon",
-					"properties": {
-						"id": "3025",
-						"kommunenummer": "3025",
-						"name": "Asker3",
-						"kommunenavn": "Asker3"
 					}
 				},
 				{

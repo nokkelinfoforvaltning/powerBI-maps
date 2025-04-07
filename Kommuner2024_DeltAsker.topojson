@@ -102439,12 +102439,12 @@
 		],
 		[
 			[
-				9445,
-				7000
+				9442,
+				6994
 			],
 			[
-				316,
-				576
+				-313,
+				-570
 			]
 		]
 	],
@@ -105235,8 +105235,9 @@
 					"arcs": [
 						[
 							[
+								644,
 								645,
-								646
+								1812
 							]
 						],
 						[
@@ -105262,7 +105263,8 @@
 					"arcs": [
 						[
 							[							
-								644
+								646,
+								-1812
 							]
 						]
 					],
@@ -105272,6 +105274,38 @@
 						"kommunenummer": "3025",
 						"name": "Røyken og Hurum",
 						"kommunenavn": "Røyken og Hurum"
+					}
+				},
+				{
+					"arcs": [
+						[
+							[							
+								645
+							]
+						]
+					],
+					"type": "Polygon",
+					"properties": {
+						"id": "3025",
+						"kommunenummer": "3025",
+						"name": "Asker2",
+						"kommunenavn": "Asker2"
+					}
+				},
+				{
+					"arcs": [
+						[
+							[							
+								646
+							]
+						]
+					],
+					"type": "Polygon",
+					"properties": {
+						"id": "3025",
+						"kommunenummer": "3025",
+						"name": "Asker3",
+						"kommunenavn": "Asker3"
 					}
 				},
 				{
